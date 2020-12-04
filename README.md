@@ -2,6 +2,15 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+*This template uses `Snowpack 3.0-rc1`*
+
+## Install
+Run in your terminal
+```
+npx degit klustre/snowpack-template-svelte-tailwind my-project
+npm install
+```
+
 ## Available Scripts
 
 ### npm start
